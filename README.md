@@ -25,6 +25,7 @@
 
 ## Install and run (Windows)
 ```bat
+start bat or
 py -m pip install -r requirements.txt
 py shakalizer_pro.py
 ```

@@ -34,3 +34,10 @@ py shakalizer_pro.py
 - Codec modes first encode the selected fragment with the real FFmpeg codec, then decode it back for the extra filters and final export. The first Play in a codec mode builds a short-lived low-resolution proxy, so playback can take a few seconds to start.
 - SVG/logo and sounds loaded from the app folder or next to the script.
 - If audio device is unavailable, sounds are disabled automatically.
+
+<p align="center">
+  <a href="https://www.pinterest.com/pin/1148136498790283379/" target="_blank">
+    <img width="90" height="97" alt="shakal111111111" src="https://github.com/user-attachments/assets/53758956-7268-45c2-92bc-b9ad27a07962" />
+  </a>
+</p>
+

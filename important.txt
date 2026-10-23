@@ -1,0 +1,4 @@
+IMPORTANT: Before running the program, you need to perform two steps:
+1. Launch cmd as an administrator and enter the following command: winget install Gyan.FFmpeg
+2. Upon the first launch, open the file start.bat. This will install all the libraries required for the program to function.
+For second launch you do not need to run start.bat again; simply launch the file shakalizer_pro.py (an .exe version of the program will be available soon).

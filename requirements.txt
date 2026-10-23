@@ -1,0 +1,6 @@
+PySide6>=6.7
+Pillow>=10.0
+numpy>=1.26
+# FFmpeg: imageio-ffmpeg приносит готовый бинарник ffmpeg.
+# Можно вместо этого установить системный FFmpeg (winget install Gyan.FFmpeg).
+imageio-ffmpeg>=0.5
